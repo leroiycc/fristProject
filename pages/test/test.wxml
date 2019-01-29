@@ -1,0 +1,6 @@
+<view wx:for="{{array}}">
+ 
+ {{item.name}}
+ {{item.sex}}
+ {{item.age}}
+</view>
